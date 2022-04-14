@@ -1,4 +1,5 @@
-name = ''
+import names
+name=names.get_first_name()
 
 def say_hi(name):
 	print(f'Hi {name}')
