@@ -1,0 +1,30 @@
+{
+  "name": [
+    "L'Ecole 41 Chardonnay 2004",
+    "L'Ecole 41 Chardonnay 2008",
+    "L'Ecole 41 Chardonnay 2018",
+    "L'Ecole 41 Semillon 2010",
+    "L'Ecole 41 Semillon 2015"
+  ],
+  "region": [
+    "Columbia Valley, Washington",
+    "Columbia Valley, Washington",
+    "Columbia Valley, Washington",
+    "Columbia Valley, Washington",
+    "Columbia Valley, Washington"
+  ],
+  "variety": [
+    "White Wine",
+    "White Wine",
+    "White Wine",
+    "White Wine",
+    "White Wine"
+  ],
+  "rating": [
+    87.0,
+    88.0,
+    89.0,
+    87.0,
+    89.0
+  ]
+}
